@@ -1,0 +1,16 @@
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.exe
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.deps.json
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.runtimeconfig.json
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.runtimeconfig.dev.json
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.dll
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\ref\Hra.dll
+C:\Users\Miša\source\repos\Hra\bin\Release\net5.0\Hra.pdb
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.csproj.AssemblyReference.cache
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.AssemblyInfoInputs.cache
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.AssemblyInfo.cs
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.csproj.CoreCompileInputs.cache
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.dll
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\ref\Hra.dll
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.pdb
+C:\Users\Miša\source\repos\Hra\obj\Release\net5.0\Hra.genruntimeconfig.cache
