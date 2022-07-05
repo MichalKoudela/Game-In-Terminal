@@ -2,6 +2,6 @@
 I've created this game for practicing C#.  
 Also I wanted to have something in my portfolio.  
   
-*So basically it is simple game in windows terminal, it isn't funny.  
+*So basically it is simple game in windows terminal, it isn't even fun to play.  
 My main focus with this project was on applying and practicing **OOP**.*  
 
